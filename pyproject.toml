@@ -16,5 +16,6 @@ dependencies = [
     "uvicorn[standard]",
     "jupyter",
     "notebook",
-    "jupyterlab"
+    "jupyterlab",
+    "pypyodbc","msaccessdb"
 ]

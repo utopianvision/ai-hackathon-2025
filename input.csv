@@ -1,0 +1,168 @@
+﻿name,private_public,range,lowest_sat,highest_sat,lowest_act,highest_act,acceptance_rate
+Williams College (MA),private,1410-1560,,,,,15%
+Amherst College (MA),private,1410-1550,,,,,12%
+Swarthmore College (PA),private,1395-1540,,,,,9%
+Pomona College (CA),private,1390-1540,,,,,9%
+Wellesley College (MA),private,1350-1520,,,,,20%
+Bowdoin College (ME),private,1330-1510,,,,,9%
+United States Naval Academy (MD),public,1230-1450,,,,,9%
+Claremont McKenna College (CA),private,1330-1500,,,,,13%
+Carleton College (MN),private,30-34,,,,,21%
+Middlebury College (VT),private,1340-1520,,,,,22%
+United States Military Academy (NY),public,1210-1440,,,,,9%
+Washington and Lee University (VA),private,1350-1500,,,,,24%
+Davidson College (NC),private,1300-1460,,,,,20%
+Grinnell College (IA),private,30-34,,,,,19%
+Hamilton College (NY),private,1380-1510,,,,,18%
+Haverford College (PA),private,1360-1520,,,,,18%
+Barnard College (NY),private,1350-1518,,,,,14%
+Colby College (ME),private,1380-1520,,,,,10%
+Colgate University (NY),private,1300-1470,,,,,27%
+Smith College (MA),private,1325-1510,,,,,37%
+Wesleyan University (CT),private,1340-1520,,,,,21%
+United States Air Force Academy (CO),public,29-33,,,,,13%
+University of Richmond (VA),private,1280-1460,,,,,31%
+Vassar College (NY),private,1360-1520,,,,,25%
+Bates College (ME),private,1210-1420,,,,,14%
+Colorado College,private,1240-1460,,,,,14%
+Macalester College (MN),private,1280-1450,,,,,39%
+Harvey Mudd College (CA),private,1490-1570,,,,,18%
+Soka University of America (CA),private,1180-1410,,,,,52%
+Berea College (KY),private,22-26,,,,,33%
+Bryn Mawr College (PA),private,1240-1500,,,,,38%
+Kenyon College (OH),private,1280-1460,,,,,37%
+Mount Holyoke College (MA),private,1270-1500,,,,,52%
+Scripps College (CA),private,1320-1480,,,,,35%
+College of the Holy Cross (MA),private,1290-1430,,,,,38%
+Pitzer College (CA),private,1325-1510,,,,,17%
+Oberlin College and Conservatory (OH),private,1270-1450,,,,,35%
+Bucknell University (PA),private,1220-1400,,,,,38%
+Lafayette College (PA),private,1250-1440,,,,,36%
+Skidmore College (NY),private,1220-1403,,,,,32%
+Whitman College (WA),private,1230-1430,,,,,54%
+Denison University (OH),private,1220-1430,,,,,28%
+Franklin & Marshall College (PA),private,1210-1440,,,,,37%
+Occidental College (CA),private,1270-1460,,,,,41%
+Thomas Aquinas College (CA),private,1200-1380,,,,,86%
+DePauw University (IN),private,1110-1360,,,,,68%
+Furman University (SC),private,28-32,,,,,65%
+Hillsdale College (MI),private,29-33,,,,,36%
+Trinity College (CT),private,1290-1450,,,,,36%
+Connecticut College,private,1310-1450,,,,,38%
+Dickinson College (PA),private,1220-1380,,,,,52%
+Union College (NY),private,1210-1400,,,,,41%
+The University of the South (TN),private,25-30,,,,,56%
+Gettysburg College (PA),private,1270-1410,,,,,48%
+Rhodes College (TN),private,27-32,,,,,51%
+Spelman College (GA),private,1050-1200,,,,,53%
+St. Lawrence University (NY),private,1180-1360,,,,,47%
+Wabash College (IN),private,1120-1320,,,,,63%
+Centre College (KY),private,26-32,,,,,72%
+Principia College (IL),private,1018-1206,,,,,93%
+Wheaton College (IL),private,1210-1450,,,,,87%
+Bard College (NY),private,1220-1418,,,,,59%
+Lawrence University (WI),private,26-32,,,,,69%
+Reed College (OR),private,1325-1520,,,,,39%
+St. Olaf College (MN),private,25-32,,,,,51%
+Agnes Scott College (GA),private,1080-1290,,,,,68%
+Muhlenberg College (PA),private,1170-1350,,,,,62%
+St. John's College (MD),private,1130-1440,,,,,61%
+Virginia Military Institute,public,1070-1260,,,,,60%
+Wofford College (SC),private,1160-1328,,,,,53%
+College of Wooster (OH),private,24-31,,,,,65%
+Kalamazoo College (MI),private,1150-1360,,,,,74%
+Sarah Lawrence College (NY),private,1220-1410,,,,,55%
+Willamette University (OR),private,1130-1360,,,,,80%
+Beloit College (WI),private,21-29,,,,,58%
+Hobart & William Smith Colleges (NY),private,1180-1360,,,,,62%
+Juniata College (PA),private,1118-1320,,,,,71%
+St. John's College (NM),private,1180-1430,,,,,69%
+Bennington College (VT),private,1240-1400,,,,,60%
+Gustavus Adolphus College (MN),private,24-30,,,,,71%
+Knox College (IL),private,1080-1320,,,,,71%
+Lake Forest College (IL),private,1085-1290,,,,,58%
+Lewis & Clark College (OR),private,1198-1380,,,,,81%
+New College of Florida,public,1160-1375,,,,,70%
+Allegheny College (PA),private,1140-1350,,,,,73%
+University of Puget Sound (WA),private,1130-1342,,,,,86%
+Ursinus College (PA),private,1150-1330,,,,,80%
+Wheaton College (MA),private,1160-1350,,,,,77%
+Cornell College (IA),private,23-29,,,,,82%
+Illinois Wesleyan University,private,1100-1300,,,,,57%
+St. Mary's College of Maryland,public,1070-1280,,,,,79%
+Augustana College (IL),private,1090-1280,,,,,57%
+College of St. Benedict (MN),private,21-28,,,,,84%
+College of the Atlantic (ME),private,1210-1400,,,,,76%
+Earlham College (IN),private,1110-1340,,,,,59%
+Transylvania University (KY),private,24-30,,,,,92%
+Washington and Jefferson Col. (PA),private,1040-1270,,,,,90%
+Hampden-Sydney College (VA),private,1040-1220,,,,,47%
+Hanover College (IN),private,1060-1230,,,,,69%
+Hendrix College (AR),private,25-32,,,,,71%
+Ohio Wesleyan University,private,23-29,,,,,68%
+Southwestern University (TX),private,1110-1300,,,,,49%
+Stonehill College (MA),private,1120-1290,,,,,69%
+Washington College (MD),private,1070-1280,,,,,80%
+Grove City College (PA),private,1130-1384,,,,,79%
+Hollins University (VA),private,1050-1260,,,,,81%
+Luther College (IA),private,23-29,,,,,64%
+Saint Anselm College (NH),private,1140-1300,,,,,75%
+Saint Mary's College (IN),private,1060-1260,,,,,82%
+St. John's University (MN),private,22-27,,,,,81%
+Austin College (TX),private,1110-1310,,,,,49%
+Hope College (MI),private,1090-1310,,,,,78%
+Randolph-Macon College (VA),private,1030-1218,,,,,71%
+Millsaps College (MS),private,21-26,,,,,70%
+Westmont College (CA),private,1110-1370,,,,,70%
+Whittier College (CA),private,1050-1220,,,,,72%
+Drew University (NJ),private,1100-1300,,,,,73%
+Elizabethtown College (PA),private,1080-1280,,,,,86%
+Goucher College (MD),private,990-1230,,,,,79%
+Linfield University (OR),private,1050-1210,,,,,80%
+St. Norbert College (WI),private,22-28,,,,,84%
+Susquehanna University (PA),private,1070-1240,,,,,87%
+Westminster College (PA),private,990-1200,,,,,95%
+Houghton College (NY),private,1060-1300,,,,,93%
+Lycoming College (PA),private,1010-1210,,,,,65%
+Monmouth College (IL),private,1050-1360,,,,,69%
+Saint Michael's College (VT),private,1130-1280,,,,,88%
+Albion College (MI),private,930-1160,,,,,75%
+Birmingham-Southern College (AL),private,22-28,,,,,60%
+Eckerd College (FL),private,1090-1285,,,,,69%
+Massachusetts Col. of Liberal Arts,public,960-1180,,,,,88%
+Morehouse College (GA),private,995-1180,,,,,74%
+Presbyterian College (SC),private,1030-1200,,,,,71%
+Ripon College (WI),private,18-25,,,,,74%
+Roanoke College (VA),private,1040-1240,,,,,78%
+Central College (IA),private,19-25,,,,,64%
+Coe College (IA),private,20-26,,,,,81%
+College of Idaho,private,1050-1240,,,,,48%
+Meredith College (NC),private,1008-1200,,,,,72%
+Salem College (NC),private,17-23,,,,,85%
+Concordia College at Moorhead (MN),private,20-27,,,,,58%
+Hampshire College (MA),private,N/A,,,,,59%
+Moravian College (PA),private,1030-1190,,,,,79%
+Randolph College (VA),private,950-1160,,,,,90%
+University of Minnesota Morris,public,21-28,,,,,65%
+Covenant College (GA),private,22-29,,,,,98%
+Fisk University (TN),private,990-1210,,,,,66%
+Franklin College (IN),private,970-1150,,,,,76%
+Hartwick College (NY),private,1020-1180,,,,,93%
+Illinois College,private,960-1160,,,,,76%
+Saint Vincent College (PA),private,960-1190,,,,,72%
+Simpson College (IA),private,20-26,,,,,87%
+U. of North Carolina Asheville,public,1060-1270,,,,,79%
+Wells College (NY),private,950-1240,,,,,83%
+Purchase College--SUNY,public,1100-1280,,,,,74%
+Wittenberg University (OH),private,18-26,,,,,97%
+Wesleyan College (GA),private,946-1113,,,,,60%
+Aquinas College (MI),private,1010-1220,,,,,71%
+Emory and Henry College (VA),private,960-1150,,,,,80%
+Gordon College (MA),private,1020-1280,,,,,68%
+University of Puerto Rico--Ponce,public,N/A,,,,,73%
+University of Virginia--Wise,public,980-1170,,,,,82%
+Westminster College (MO),private,19-26,,,,,97%
+Centenary College,private,19-26,,,,,60%
+Oglethorpe University (GA),private,1100-1280,,,,,67%
+Sweet Briar College (VA),private,1010-1210,,,,,76%
+Wartburg College (IA),private,19-25,,,,,72%
